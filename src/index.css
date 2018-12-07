@@ -12,3 +12,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.navigation-bar{
+  outline: solid 5px green;
+  margin: 10px;
+}
