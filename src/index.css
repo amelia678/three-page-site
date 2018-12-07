@@ -17,3 +17,8 @@ code {
   outline: solid 5px green;
   margin: 10px;
 }
+
+.content-section {
+  outline: solid 5px blue;
+  margin: 20px;
+}
